@@ -1,4 +1,4 @@
-### Hi there, a fresh github coder, carry on for a better self. 👋
+### Hi there, a fresh github coder, carry on for a better self, at this stage aim to find a front-end internship. 👋
 
 <!-- **YellowWineHot1Hot/YellowWineHot1Hot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
