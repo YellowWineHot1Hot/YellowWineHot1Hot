@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![YellowWineHot1Hot's GitHub stats](https://github-readme-stats.vercel.app/api?username=YellowWineHot1Hot)](https://github.com/anuraghazra/github-readme-stats)
-[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/YellowWineHot1Hot/YellowWineHot1Hot@output/github-contribution-grid-snake-dark.gif)](https://github.com/YellowWineHot1Hot)
+# Github status
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=YellowWineHot1Hot&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowWineHot1Hot&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+![grid snake animation](https://kifimg.oss-cn-beijing.aliyuncs.com/project/github-user-contribution.svg)
