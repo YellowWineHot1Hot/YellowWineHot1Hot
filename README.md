@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, a fresh github coder, carry on for a better self. 👋
 
 <!-- **YellowWineHot1Hot/YellowWineHot1Hot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
